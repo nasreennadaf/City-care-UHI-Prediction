@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25" alt="Python">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="25" alt="Flask">
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="25" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" alt="Docker">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" alt="Vercel">
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="25" alt="Google Gemini">
   <img src="https://img.shields.io/badge/XGBoost-1572B6?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" alt="XGBoost">
   <img src="https://img.shields.io/badge/Earth%20Engine-34A853?style=for-the-badge&logo=googleearth&logoColor=white" height="25" alt="Google Earth Engine">
