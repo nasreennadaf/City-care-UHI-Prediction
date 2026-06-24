@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 Live Demo
-**Deployed on Google Cloud Run:** [https://climateriskai-502583370638.asia-south1.run.app/]([https://climateriskai-502583370638.asia-south1.run.app/](https://uhi-prediction.vercel.app/))
+**Deployed on Google Cloud Run:** ((https://uhi-prediction.vercel.app/))
 
 ## ✨ Features
 
