@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 Live Demo
-**Deployed on Google Cloud Run:** [https://climateriskai-502583370638.asia-south1.run.app/](https://climateriskai-502583370638.asia-south1.run.app/)
+**Deployed on Google Cloud Run:** [https://climateriskai-502583370638.asia-south1.run.app/]([https://climateriskai-502583370638.asia-south1.run.app/](https://uhi-prediction.vercel.app/))
 
 ## ✨ Features
 
@@ -40,11 +40,11 @@
 - **@google/generative-ai** for frontend direct AI chat integration.
 
 **Backend & Machine Learning:**
-- **Python / Flask** (REST API generating real-time city statistics and rankings).
-- **Google Earth Engine (GEE)** for extracting live remote sensing features (NDVI, NDBI, Albedo, etc.).
-- **XGBoost (XGBRegressor)** for predictive modeling of Land Surface Temperature (LST) and heat risk scoring.
-- Containerized via **Docker**.
-- Deployed on **Google Cloud Run (GCP)** for scalable and continuous availability.
+- Python / Flask REST API for climate risk analytics and locality-level predictions.
+- Google Earth Engine (GEE) for geospatial data acquisition and feature engineering.
+- XGBoost-based predictive models for Urban Heat Island risk assessment.
+- Dockerized application architecture for reproducible deployment.
+- Web application deployed on Vercel with interactive dashboards and heatmap visualizations.
 
 ## ⚙️ Local Setup Instructions
 
